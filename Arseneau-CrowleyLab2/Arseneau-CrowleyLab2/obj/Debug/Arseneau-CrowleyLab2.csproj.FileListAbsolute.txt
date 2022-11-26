@@ -1,0 +1,11 @@
+C:\Year 1\IntroToCompPrograming\Labs\Lab 2\Arseneau-CrowleyLab2\Arseneau-CrowleyLab2\bin\Debug\Arseneau-CrowleyLab2.exe.config
+C:\Year 1\IntroToCompPrograming\Labs\Lab 2\Arseneau-CrowleyLab2\Arseneau-CrowleyLab2\bin\Debug\Arseneau-CrowleyLab2.exe
+C:\Year 1\IntroToCompPrograming\Labs\Lab 2\Arseneau-CrowleyLab2\Arseneau-CrowleyLab2\bin\Debug\Arseneau-CrowleyLab2.pdb
+C:\Year 1\IntroToCompPrograming\Labs\Lab 2\Arseneau-CrowleyLab2\Arseneau-CrowleyLab2\obj\Debug\Arseneau-CrowleyLab2.csproj.AssemblyReference.cache
+C:\Year 1\IntroToCompPrograming\Labs\Lab 2\Arseneau-CrowleyLab2\Arseneau-CrowleyLab2\obj\Debug\Arseneau-CrowleyLab2.csproj.SuggestedBindingRedirects.cache
+C:\Year 1\IntroToCompPrograming\Labs\Lab 2\Arseneau-CrowleyLab2\Arseneau-CrowleyLab2\obj\Debug\Arseneau_CrowleyLab2.Form1.resources
+C:\Year 1\IntroToCompPrograming\Labs\Lab 2\Arseneau-CrowleyLab2\Arseneau-CrowleyLab2\obj\Debug\Arseneau_CrowleyLab2.Properties.Resources.resources
+C:\Year 1\IntroToCompPrograming\Labs\Lab 2\Arseneau-CrowleyLab2\Arseneau-CrowleyLab2\obj\Debug\Arseneau-CrowleyLab2.csproj.GenerateResource.cache
+C:\Year 1\IntroToCompPrograming\Labs\Lab 2\Arseneau-CrowleyLab2\Arseneau-CrowleyLab2\obj\Debug\Arseneau-CrowleyLab2.csproj.CoreCompileInputs.cache
+C:\Year 1\IntroToCompPrograming\Labs\Lab 2\Arseneau-CrowleyLab2\Arseneau-CrowleyLab2\obj\Debug\Arseneau-CrowleyLab2.exe
+C:\Year 1\IntroToCompPrograming\Labs\Lab 2\Arseneau-CrowleyLab2\Arseneau-CrowleyLab2\obj\Debug\Arseneau-CrowleyLab2.pdb
