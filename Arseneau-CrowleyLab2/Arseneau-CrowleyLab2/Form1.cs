@@ -89,8 +89,8 @@ namespace Arseneau_CrowleyLab2
             number = Convert.ToInt32(txtNum.Text);
             multipier = Convert.ToInt32(txtMultiplier.Text);
 
-            //mulitply number and muliplier
-            answer = number * multipier;
+            //minus multiplier add number
+            answer = number - multipier + number;
 
             //disply answer in answer label
 
